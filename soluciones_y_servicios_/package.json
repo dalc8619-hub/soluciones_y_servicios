@@ -1,0 +1,35 @@
+{
+  "name": "soluciones_y_servicios",
+  "version": "1.0.0",
+  "description": "Página web profesional para la empresa Soluciones y Servicios+",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined'",
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [
+    "soluciones",
+    "servicios",
+    "empresa",
+    "web"
+  ],
+  "author": "Soluciones y Servicios+",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/tu_usuario/soluciones_y_servicios_",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu_usuario/soluciones_y_servicios_.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu_usuario/soluciones_y_servicios_/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
